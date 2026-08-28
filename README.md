@@ -1,4 +1,4 @@
-# Profile
+# Profile/Portofolio
 
 Hi, my name is Fajar Bakuh Lumaksono. This repository contains a collection of my previous academic work and portfolio projects, including projects completed during my studies.
 
